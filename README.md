@@ -2,6 +2,7 @@
 Electrical Engineering Projects - Embedded Systems, Microcontrollers
 
 !!!!!!!!!!!!!!!!!!!!!!! FINAL PROJECT INFORMATION !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 PART 1 - Basic functionality
 1.  Splash screen with name shown at the start.
 2.  Sensors start and stop timing.  If a measurement is started but not
