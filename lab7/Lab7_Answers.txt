@@ -1,0 +1,26 @@
+			      EE 109 - Fall 2022
+		    Lab 7 - Rotary Encoders and Interrupts
+
+Edit the document below to fill in your answers to the review problems at the
+end of the assignment web page.
+
+
+1. (1 point) Briefly explain why it is undesirable to read the two encoder
+input signals with two separate PINC statements.
+
+
+
+
+
+
+
+2. (1 point) Briefly explain why updating the LCD display in your ISR could
+lead to undesirable behavior for this lab.
+
+
+
+
+
+
+
+
